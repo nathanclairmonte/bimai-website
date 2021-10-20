@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing deploying code changes through Git
+          slatt
         </a>
       </header>
     </div>
